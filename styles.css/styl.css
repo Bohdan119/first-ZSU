@@ -1,0 +1,105 @@
+body{
+font-family:"Roboto", sans-serif;
+font-weight: 400;
+font-size:16px;
+letter-spacing: 0.03em;
+color: goldenrod;
+background-color: rgb(196, 213, 249);
+}
+
+.conteiner{
+border: 1px solid red;
+width: 1200px;
+padding-left: 15px;
+padding-right: 15px;
+margin: 0 auto;
+}
+
+
+
+/* --------------------HEADER-------------------- */
+
+header{
+justify-self: center;
+color: #ffffff;
+border: 2px solid #ffffff;
+padding: 10px;
+}
+
+.header-box{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.navigation{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 25px;
+}
+
+.logo{
+
+}
+
+.text-clory{
+color: goldenrod;
+text-transform: uppercase;
+font-size: 18px;
+
+}
+
+.telegram{
+color: goldenrod;
+text-decoration: none;
+}
+/* --------------------HEADER-------------------- */
+
+
+/* --------------------MAIN-------------------- */
+.main-title{
+display: flex;
+align-items: center;
+justify-content: center;
+text-transform: uppercase;
+}
+
+.title-item{
+font-size: 28px;
+line-height:2;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.why-help{
+}
+
+.list-why{
+
+}
+
+.item-why{
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 20px;
+border: 2px solid #ffffff;
+margin-top: 10px;
+}
+
+.paragraf{
+font-size: 26px;
+}
+
+
+
+
+/* --------------------MAIN-------------------- */
+
+
+/* --------------------FOOTER-------------------- */
+footer{
+
+}
+/* --------------------FOOTER-------------------- */
+
